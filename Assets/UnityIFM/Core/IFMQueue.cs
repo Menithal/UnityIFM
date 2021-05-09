@@ -1,4 +1,3 @@
-
 /**  
 * 
 * UnityIFM - Simplified iFacialMocap Unity Interface
@@ -18,6 +17,7 @@
 * limitations under the License.
 * 
 **/
+
 namespace UnityIFM
 {
     using System.Collections.Generic;

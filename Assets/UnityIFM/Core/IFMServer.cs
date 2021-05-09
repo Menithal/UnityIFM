@@ -1,4 +1,3 @@
-
 /**  
 * 
 * UnityIFM - Simplified iFacialMocap Unity Interface
@@ -143,7 +142,5 @@ namespace UnityIFM
                     Thread.Sleep(sleepMilliseconds);
             }
         }
-
     }
-
 }

@@ -1,6 +1,4 @@
-﻿
-
-/**  
+﻿/**  
 * 
 * UnityIFM - Simplified iFacialMocap Unity Interface
 * 

@@ -19,6 +19,7 @@
 * limitations under the License.
 * 
 **/
+
 namespace UnityIFM
 {
     using UnityEngine;

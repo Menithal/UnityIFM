@@ -1,5 +1,5 @@
 # UnityIFMLib
-### A iFacialMocap interface implementation library for Unity
+### A iFacialMocap receiver library for Unity
 
 This lib is designed to make the process of adding [iFacialMocap](https://www.ifacialmocap.com/) by Yasushi Emoto to a Unity project with ease with simplified configuration process through the Unity Inspector.
 
@@ -29,6 +29,8 @@ public class Example : MonoBehaviour
 
 To see an example of UnityIFMLib in action, in  `Example/Scene` open either scene `RiggedExample` or `StaticMeshExample`. Refer to the interactions between the Scene objects `IFMService`, `CharacterFaceController` and the Example Avatars used in the Scene.
 
+
+#### Tutorial video coming soon.
 
 ### Connecting 
 

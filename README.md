@@ -69,3 +69,8 @@ The IFM Packet is a ready parsed object build from the UDP Messages
 Utility class with static helpers for quicker prototyping or implementation
 - `ApplyBlendshapes(IFMPacket, SkinnedMeshRenderer[])` - Applies `IFMPacket.Blendshapes` to all the `SkinnedMeshRenderers` that have the same Blendshapes
 - `GetBlendshapeIndex(SkinnedMeshRenderer, string)` - runs GetBlendShapeIndex on string, but also does some short hands for skipping the entire search if shared mesh is null or if blendshapecount is less than 1
+
+
+
+# Model 
+Sourced from iFacialMocap Companion app's example project

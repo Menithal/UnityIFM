@@ -14,7 +14,7 @@ Tested in Unity 2020.3.0.
 
 Import the Unitypackage in the releases to your project.
 
-To add `IFMService` to an Empty GameObject in the scene, and bind a in-scene handler function which has an `IFMPacket` argument.
+Add `IFMService` to an Empty GameObject in the scene, and bind a in-scene handler function which has an `IFMPacket` argument.
 
 An example script with the handler would do the following
 ```
@@ -32,7 +32,7 @@ To see an example of UnityIFMLib in action, in  `Example/Scene` open either scen
 
 #### Tutorial video coming soon.
 
-### Connecting 
+### Connecting iFacialMocap
 
 Instead of using to the [iFacialMocap Companion app](https://www.ifacialmocap.com/), iFacialMocap should connect to Unity application directly. 
 
@@ -43,7 +43,6 @@ By default when `IFMService` **is enabled it will poll the IFM (default) port** 
 If a timeout occurs, the app will try again every 5 seconds and have the confirmation dialog appear again.
 
 When **IFMService is turned off, the port listening is disabled.**
-
 
 ## Usable Classes:
 
